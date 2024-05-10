@@ -1,0 +1,10 @@
+Hi *{}*,
+
+This is an automated Whatsapp Message sent via Python coded by *Blaise Miranda*.
+
+You are getting this message because some way or the other you were associated with *Randolf Miranda*.
+
+Thank you for participating in this testing.
+
+Regards,
+*Blaise Miranda*
